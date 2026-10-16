@@ -1,21 +1,25 @@
 # 🧬 System Profile
 
-> **Data Analysis • Machine Learning • Insight-Driven Projects**
+**Data Analysis • Machine Learning • Cyber Security • Insight-Driven Projects**
 
 ---
 
 ## 📊 Skill Matrix
 
-| Area                | Focus                                     |
-| ------------------- | ----------------------------------------- |
-| 📊 Data Analysis    | Data cleaning, EDA, visualization         |
-| 🧮 Statistics       | Descriptive statistics, patterns & trends |
-| 🤖 Machine Learning | ML fundamentals → practical applications  |
-| 🐍 Python           | Pandas, NumPy, Matplotlib, Scikit-learn   |
-| 🗄️ Data            | SQL, structured & real-world datasets     |
-| 📈 Visualization    | Clear, meaningful, explainable insights   |
+| Area | Focus |
+|------|-------|
+| 📊 Data Analysis | Data cleaning, EDA, visualization |
+| 🧮 Statistics | Descriptive statistics, patterns & trends |
+| 🤖 Machine Learning | ML fundamentals → practical applications |
+| 🐍 Python | Pandas, NumPy, Matplotlib, Scikit-learn |
+| 🗄️ Data | SQL, structured & real-world datasets |
+| 📈 Visualization | Clear, meaningful, explainable insights |
+| 🛡️ Cyber Security | Networking, security fundamentals, ethical hacking basics |
+| 🔍 Security Analytics | Log analysis, anomaly & threat detection with data |
+
 
 ---
+
 
 ## 🤖 Machine Learning Toolkit
 
@@ -35,17 +39,34 @@ Core Concepts
 └── Model Evaluation
 ```
 
+## 🛡️ Cyber Security Toolkit
+
+```text
+Foundations
+├── Computer Networks (OSI/TCP-IP, physical & data link layers)
+├── C Programming
+├── Linux & Terminal Basics
+└── Python for Security Scripting
+
+Security Concepts
+├── CIA Triad
+├── Cryptography Basics
+├── Web Security (OWASP Top 10)
+├── Network Traffic Analysis
+└── Ethical Hacking Mindset
+```
+
 ---
 
 ## 📈 GitHub Analytics
+## 🧠 Current Focus
 
-Focused on building a portfolio that demonstrates **consistent learning, practical experimentation, and measurable improvement**.
-
-* 📊 Data-driven projects
-* 🤖 Machine learning experiments
-* 🧪 Reproducible analysis
-* 📈 Continuous improvement
-
+- 📊 Real-world datasets
+- 🧪 Insight-first analysis
+- 🤖 ML fundamentals → applied
+- 🛡️ Cyber security fundamentals & safe practice labs
+- 📈 Clean, explainable results
+- 🛠️ Building practical projects
 ---
 
 ## 🧪 Project Pipeline
